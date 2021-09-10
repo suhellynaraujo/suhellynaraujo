@@ -32,4 +32,5 @@
   <img align="right" alt="IInterface-jedi" src="https://i.picasion.com/pic91/4db90680ac3e603470bc69fbc16e156f.gif" width="100" height="100" border="0" >
 </div>
 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
