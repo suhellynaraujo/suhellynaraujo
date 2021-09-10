@@ -19,8 +19,11 @@
 
  <div>
   <a href="https://github.com/suhellynaraujo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suhellynaraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhellynaraujo&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suhellynaraujo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhellynaraujo&layout=compact&langs_count=7&theme=cobalt"/>
+    
+  <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=suhellynaraujo&hide=css,java,html&theme=tokyonight"> -->
+    
  </div>
   
 ##
