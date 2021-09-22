@@ -1,8 +1,9 @@
 ### Hi ! Eu sou a Suhellyn. Que bom ter você por aqui! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 ##
-- 🔭 Estou cursando tecnólogo em Análise e Desenvolvimento de Sistemas pela Estácio.
-- Futura Full-Stack
-- 🌱No momento estou estudando:
+- Estou cursando tecnólogo em Análise e Desenvolvimento de Sistemas pela Estácio.
+- Full-Stack Jr. em desenvolvimento pela RECODE PRO.
+- Em constante aprendizado.
+- No momento estou estudando:
 
 
   <div style="display: inline_block"><br>
@@ -19,8 +20,8 @@
 
  <div>
   <a href="https://github.com/suhellynaraujo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suhellynaraujo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhellynaraujo&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suhellynaraujo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhellynaraujo&layout=compact&langs_count=7&theme=github_dark"/>
     
   <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=suhellynaraujo&hide=css,java,html&theme=tokyonight"> -->
     
