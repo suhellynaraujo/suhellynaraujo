@@ -1,12 +1,10 @@
 ### Olá ! Eu sou a Suhellyn. Bem vindo(a) ao meu <img align="center" alt="suh-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> !!
 Que bom ter você por aqui! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 ##
+
 - Estou cursando tecnólogo em Análise e Desenvolvimento de Sistemas pela Estácio.
 - Full-Stack Jr. em desenvolvimento pela RECODE PRO.
 - Em constante aprendizado.
-##
-- Minhas Redes: <br> <a href="https://www.linkedin.com/in/suhellyn-araujo-68a9ba1b0/" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
-
 
 ##
 - Ampliando meus conhecimentos em :
@@ -53,8 +51,8 @@ Que bom ter você por aqui! <img src="https://user-images.githubusercontent.com/
 ##
   
   <div>
-      <!--
-  <a href="https://www.linkedin.com/in/suhellyn-araujo-68a9ba1b0/" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> -->
+
+  <a href="https://www.linkedin.com/in/suhellyn-araujo-68a9ba1b0/" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
 <img align="right" alt="suh-jedi" src="https://i.picasion.com/pic91/4db90680ac3e603470bc69fbc16e156f.gif" width="80" height="80" border="0" >
  </div>
   
