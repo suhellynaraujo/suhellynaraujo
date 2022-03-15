@@ -7,7 +7,7 @@ Que bom ter você por aqui! <img src="https://user-images.githubusercontent.com/
 - Em constante aprendizado.
 
 ##
-- Ampliando meus conhecimentos em :
+- Minhas habilidades:
 
 
   <div style="display: inline_block"><br> <p>Front-end</p>
