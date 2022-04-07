@@ -3,7 +3,7 @@ Que bom ter você por aqui! <img src="https://user-images.githubusercontent.com/
 ##
 
 - Estou cursando tecnólogo em Análise e Desenvolvimento de Sistemas pela Estácio.
-- Full-Stack Jr. em desenvolvimento pela RECODE PRO.
+- Desenvolvedora Full-Stack Jr. pela RECODE PRO.
 - Em constante aprendizado.
 
 ##
