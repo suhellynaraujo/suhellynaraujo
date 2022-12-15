@@ -5,6 +5,7 @@ Que bom ter você por aqui! <img src="https://user-images.githubusercontent.com/
 - Estou cursando tecnólogo em Análise e Desenvolvimento de Sistemas pela Estácio.
 - Desenvolvedora Full-Stack Jr. pela RECODE PRO.
 - Em constante aprendizado.
+- Desenvolvedora T-r-a-i-n-e-e na @Viceri-Seidor.
 
 ##
 - Minhas habilidades:
@@ -22,18 +23,18 @@ Que bom ter você por aqui! <img src="https://user-images.githubusercontent.com/
   <img align="center" alt="suh-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
   <img align="center" alt="suh-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain.svg">
   <img align="center" alt="suh-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-  <img align="center" alt="suh-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> 
-  <img align="center" alt="suh-.Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">  
-   <img align="center" alt="suh-SqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-   <img align="center" alt="suh-Amazon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="suh-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"> 
+  <img align="center" alt="suh-SqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  
 
 
   
   </div>
    <div style="display: inline_block"><br> <p>Ferramentas e IDE's</p>
    <img align="center" alt="suh-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+   <img align="center" alt="suh-sourcetree" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg">
    <img align="center" alt="suh-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-   <img align="center" alt="suh-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+   <img align="center" alt="suh-bitbucket" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg">
 
 
 
@@ -55,7 +56,7 @@ Que bom ter você por aqui! <img src="https://user-images.githubusercontent.com/
   <div>
 
   <a href="https://www.linkedin.com/in/suhellyn-araujo-68a9ba1b0/" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
-<img align="right" alt="suh-jedi" src="https://i.picasion.com/pic91/4db90680ac3e603470bc69fbc16e156f.gif" width="80" height="80" border="0" >
+<!--<img align="right" alt="suh-jedi" src="https://i.picasion.com/pic91/4db90680ac3e603470bc69fbc16e156f.gif" width="80" height="80" border="0" >-->
  </div>
   
 
