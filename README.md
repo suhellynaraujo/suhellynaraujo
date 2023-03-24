@@ -44,8 +44,8 @@ Que bom ter você por aqui! <img src="https://user-images.githubusercontent.com/
 
  <div>
   <a href="https://github.com/suhellynaraujo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suhellynaraujo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhellynaraujo&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suhellynaraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhellynaraujo&layout=compact&langs_count=7&theme=dracula"/>
     
   <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=suhellynaraujo&hide=css,java,html&theme=tokyonight"> -->
     
