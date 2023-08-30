@@ -5,7 +5,7 @@ Que bom ter você por aqui! <img src="https://user-images.githubusercontent.com/
 - Graduada em Análise e Desenvolvimento de Sistemas.
 - Desenvolvedora Full-Stack Jr. pela RECODE PRO.
 - Em constante aprendizado.
-- Analista Programadora Jr na @Viceri-Seidor.
+- Analista Programadora Jr
 
 ##
 - Minhas habilidades:
