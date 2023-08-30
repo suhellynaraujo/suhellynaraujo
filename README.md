@@ -2,22 +2,12 @@
 Que bom ter você por aqui! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 ##
 
-- Graduada em Análise e Desenvolvimento de Sistemas.
-- Desenvolvedora Full-Stack Jr. pela RECODE PRO.
-- Em constante aprendizado.
 - Analista Programadora Jr
+- Graduada em Análise e Desenvolvimento de Sistemas.
+- Em constante aprendizado.
 
 ##
 - Minhas habilidades:
-
-
-  <div style="display: inline_block"><br> <p>Front-end</p>
-  <img align="center" alt="suh-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-  <img align="center" alt="suh-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-  <img align="center" alt="suh-BootsTrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="suh-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="suh-ReactJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  </div>
  
   <div style="display: inline_block"><br> <p>Back-end</p>
   <img align="center" alt="suh-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
