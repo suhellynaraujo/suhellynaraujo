@@ -9,7 +9,7 @@ Que bom ter você por aqui! <img src="https://user-images.githubusercontent.com/
 - Em constante aprendizado.
  <div>
 
-  <a href="https://www.linkedin.com/in/suhellyn-araujo-68a9ba1b0/" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/suhellyn-araujo" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
 <!--<img align="right" alt="suh-jedi" src="https://i.picasion.com/pic91/4db90680ac3e603470bc69fbc16e156f.gif" width="80" height="80" border="0" >-->
  </div>
  
