@@ -30,7 +30,7 @@ Que bom ter você por aqui! <img src="https://user-images.githubusercontent.com/
    <img align="center" alt="suh-sourcetree" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourcetree/sourcetree-original-wordmark.svg">
    <img align="center" alt="suh-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
    <img align="center" alt="suh-bitbucket" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg">
-   <img align="center" alt="suh-eclipse" height="30" width="40" src=" https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg">
+   <img align="center" alt="suh-eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg">
    <img align="center" alt="suh-postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
   
 
