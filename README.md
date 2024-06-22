@@ -7,6 +7,9 @@ Que bom ter você por aqui! <img src="https://user-images.githubusercontent.com/
 - Analista Programadora Jr
 - Graduada em Análise e Desenvolvimento de Sistemas.
 - Em constante aprendizado.
+
+ ##
+ Contacte -me:
  <div>
 
   <a href="https://www.linkedin.com/in/suhellyn-araujo" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
@@ -50,9 +53,9 @@ Que bom ter você por aqui! <img src="https://user-images.githubusercontent.com/
 ## 
 
  <div>
-  <a href="https://github.com/suhellynaraujo">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=suhellynaraujo&hide=HTML,CSS,JavaScript,handlebars,SCSS,TypeScript&theme=nightowl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suhellynaraujo&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>  
+  <a href="https://github.com/suhellynaraujo"> 
+  <img height="200em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=suhellynaraujo&layout=donut&hide=HTML,CSS,JavaScript,handlebars,TypeScript,SCSS&theme=jolly"/>
+  <img height="200em" src ="https://github-readme-stats.vercel.app/api?username=suhellynaraujo&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>  
   <!--<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=suhellynaraujo&hide=HTML,CSS,JavaScript,handlebars,SCSS,TypeScript&theme=transparent"> -->
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhellynaraujo&layout=compact&langs_count=7&theme=omni"/> -->
    
