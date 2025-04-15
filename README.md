@@ -20,10 +20,10 @@ Que bom ter você por aqui! <img src="https://user-images.githubusercontent.com/
 
 - Minhas habilidades:
 
-  <div style="display: inline_block"><br> <p>Front-end</p>
+ <!-- <div style="display: inline_block"><br> <p>Front-end</p>
   <img align="center" alt="suh-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"> 
   <img align="center" alt="suh-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="suh-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="suh-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">-->
   
   
   <div style="display: inline_block"><br> <p>Back-end</p>
