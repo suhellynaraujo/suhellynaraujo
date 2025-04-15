@@ -31,14 +31,14 @@ Que bom ter você por aqui! <img src="https://user-images.githubusercontent.com/
   <img align="center" alt="suh-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">  
   <img align="center" alt="suh-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"> 
   <img align="center" alt="suh-SqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  
-  
   </div>
-   <div style="display: inline_block"><br> <p>Ferramentas e IDE's</p>
+   <div style="display: inline_block"><br> <p>DevOps</p>
    <img align="center" alt="suh-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
    <img align="center" alt="suh-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
    <img align="center" alt="suh-sourcetree" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourcetree/sourcetree-original-wordmark.svg">
    <img align="center" alt="suh-bitbucket" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg">
+  </div>
+   <div style="display: inline_block"><br> <p>Ferramentas e IDE's</p>
    <img align="center" alt="suh-eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg">
    <img align="center" alt="suh-intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
    <img align="center" alt="suh-postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
@@ -46,9 +46,6 @@ Que bom ter você por aqui! <img src="https://user-images.githubusercontent.com/
    <img align="center" alt="suh-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
    <img align="center" alt="suh-Vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">
    <img align="center" alt="suh-sqlDevelop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg">
-  
-
-
   </div>
  
 ## 
